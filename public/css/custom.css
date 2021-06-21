@@ -33,7 +33,7 @@ a.button-discovor {
     text-transform: uppercase;
 }
 .learn-more {
-    background: #0c67c4;
+    background: #001269;
     width: 25%;
     padding: 12px;
     cursor: pointer;
@@ -111,11 +111,11 @@ section#section_3 .image-dv {
     background: #fff;
     padding: 25px;
 }
-section#section_3 .learn-more {
+/* section#section_3 .learn-more {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-}
+} */
 table.specification {
     width: 100%;
     color: #FFF;
@@ -157,7 +157,7 @@ section#section_5 .image-dv.text-center {
     padding-bottom: 30px;
 }
 section#section_5 .learn-more {
-    background: #0c67c4;
+    background: #001269;
     width: 40%;
     padding: 12px;
     cursor: pointer;
@@ -260,7 +260,7 @@ section#footer .contact-t ul {
 
 
 div#topbar {
-    background: #082848;
+    background: #001269;
     color: #fff;
 }
 div#topbar ul li {
@@ -269,7 +269,7 @@ div#topbar ul li {
     padding: 10px 20px;
 }
 div#topbar ul li i {
-    color: #ffe701;
+    color: #e2e2e2;
     margin-right: 5px;
 }
 div#topbar ul li a {
@@ -314,7 +314,7 @@ div#topbar i.fa.fa-search {
 }
 div#topbar .social-links {
     padding: 10px;
-    background: #ffe701;
+    background: #e2e2e2;
     width: 20%;
 }
 div#topbar span.spectral-ft {
