@@ -2,6 +2,10 @@ h1, h2, h4, h5, h6 {
     font-family: "Spectral";
 }
 
+body * {
+    transition: 500ms;
+}
+
 section#section_1 {
     position: relative;
     overflow: hidden;
@@ -69,7 +73,10 @@ section#section_2, section#section_3, section#section_4, section#section_5 {
 }
 .image-dv {
     padding: 14px;
-    box-shadow: 0px 0px 10px #ccc;
+    border: solid 1px #e6d1b3;
+}
+.image-dv:hover {
+    box-shadow: 0px 14px 29px -7px #ceb490;
 }
 section#section_2 h3, section#section_3 h3 {
     font-size: 16px;
@@ -111,11 +118,11 @@ section#section_3 .image-dv {
     background: #fff;
     padding: 25px;
 }
-/* section#section_3 .learn-more {
+section#section_3 .learn-more {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-} */
+}
 table.specification {
     width: 100%;
     color: #FFF;
@@ -448,4 +455,30 @@ button.navbar-toggler {
 }
 .offer .item {
     height: 292px;
+}
+
+.btn {
+    outline: 0 !important;
+    border: 0;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 12px;
+    color: #FFF !important;
+}
+
+.btn-primary {
+    background-color: #001269;
+    box-shadow: 0 !important;
+}
+
+.btn-primary:hover {
+    box-shadow: 0px 10px 11px -8px #4c91dad4 !important;
+    background-color: #0457ad;
+}
+
+.btn-primary:focus,
+.btn-primary:active {
+    box-shadow: 0px 10px 16px -3px #4c91da !important;
 }

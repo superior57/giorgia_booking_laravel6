@@ -44,9 +44,9 @@
                         Your yachting experience can be tailored to accommodate every need and desire, providing a sense
                         of
                         freedom and flexibility that is truly unrivalled.</p>
-                    <div class="learn-more animated fadeInUp">
-                        <a href="#" class="button-discovor">Learn More</a>
-                    </div>
+                    <a class="btn btn-primary px-4 animated fadeInUp">
+                        Learn More
+                    </a>
                 </div>
             </div>
             <div class="col-md-1">
@@ -86,8 +86,10 @@
 					</div>
                     <p>MY Giorgia can accommodate up to ten guests in five well-appointed staterooms, all featuring
                         ensuite marble bathrooms. </p>
-                    <div class="learn-more">
-                        <a href="#" class="button-discovor">Learn More</a>
+                    <div class="">
+                        <a class="btn btn-primary px-4">
+                            Learn More
+                        </a>
                     </div>
                 </div>
             </div>
@@ -111,8 +113,10 @@
 					</div>
                     <p>Giorgia is a true masterpiece of high-end yachting design, featuring teak beams and elegant,
                         no-fuss exteriors. </p>
-                    <div class="learn-more">
-                        <a href="#" class="button-discovor">Learn More</a>
+                    <div class="">
+                        <a class="btn btn-primary px-4">
+                            Learn More
+                        </a>
                     </div>
                 </div>
             </div>
@@ -212,8 +216,10 @@
                     <!-- <p>Sami duble bed 2 window & mountain view. 24 Hours room service. <br>
                         Free Wifi / Cable Tv / Breakfast
                     </p> -->
-                    <div class="learn-more">
-                        <a href="#" class="button-discovor">Learn More</a>
+                    <div class="">
+                        <a class="btn btn-primary px-4">
+                            Learn More
+                        </a>
                     </div>
                 </div>
             </div>
@@ -224,8 +230,10 @@
                     <!-- <p>Sami duble bed and single veranda. A guest room and furniture.<br>
                         Free Wifi / Cable Tv / Breakfast
                     </p> -->
-                    <div class="learn-more">
-                        <a href="#" class="button-discovor">Learn More</a>
+                    <div class="">
+                        <a class="btn btn-primary px-4">
+                            Learn More
+                        </a>
                     </div>
                 </div>
             </div>
@@ -236,8 +244,10 @@
                     <!-- <p>Single bed and single window. Include a sofa and other small furniture <br>
                         Free Wifi / Cable Tv / Breakfast
                     </p> -->
-                    <div class="learn-more">
-                        <a href="#" class="button-discovor">Learn More</a>
+                    <div class="">
+                        <a class="btn btn-primary px-4">
+                            Learn More
+                        </a>
                     </div>
                 </div>
             </div>
